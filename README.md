@@ -1,4 +1,4 @@
-# Shirayuki-FE
+# vue3-image-upload
 
 这是一个使用 Vue3 + Vite 写的图片上传程序。
 
